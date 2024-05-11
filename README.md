@@ -1,4 +1,4 @@
-# heartlab-weather-tracker
+# heartlab-awos
 Small webapp to aid strategic administration of heartworm medication.
 
 Heartworm pills can be administered strategically based on the temperatures and times at which the larvae can survive, saving a large amount of money in both medication and ham to wrap it in. This tool helps track local temperatures and provides a recommendation for when to start medication based on past temperatures and current forecast, as well as a cautiousness value entered by the user.
