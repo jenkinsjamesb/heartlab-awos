@@ -1,0 +1,9 @@
+:root {
+    --color-bg: #333;
+    --color-fg: #555;
+    --color-accent: #db0;
+    --color-fringe: #afa;
+    --color-text: #fff;
+    --border: 2px solid var(--color-accent);
+    --transparent: rgba(0,0,0,0);
+}
